@@ -15,7 +15,7 @@ class MainFrame extends JFrame {
 
     private void addBallPanel() {
         this.drawPanel = new BallPanel();
-        this.drawPanel.setBackground(new Color(125,125,125));
+        this.drawPanel.setBackground(Color.DARK_GRAY);
 
         this.add(this.drawPanel, BorderLayout.CENTER);
     }
