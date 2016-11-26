@@ -47,6 +47,7 @@ class MainFrame extends JFrame {
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.pack();
         this.setSize(640,500);
+        this.setMinimumSize(new Dimension(120, 210));
         this.setLocationRelativeTo(null);
         this.setVisible(true);
         drawPanel.restart();
