@@ -10,3 +10,7 @@ Dev JDK version 1.8, the packed jar file should be compitable with JRE 1.6.
 
 ## double click to run
 if you enironment set java jre properly, you can just double click the jar file, then launch it.
+
+
+## Snapshot
+![diagram](Screen Shot 2016-11-27 at 10.00.34 PM.png)
